@@ -215,3 +215,8 @@ body {
   line-height: 24px;
   color: #161d2a;
 }
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
